@@ -9,5 +9,7 @@ Hello! It's my Projects on GitHub
 # My Recovery's Build
 
 TWRP:
+https://github.com/MrGadget84/Build-TWRP/releases
 
-[Blossom](https://github.com/MrGadget84/Build-TWRP/releases)
+OrangeFox Recovery:
+https://github.com/MrGadget84/Build-OFRP/releases
